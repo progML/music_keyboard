@@ -1,0 +1,7 @@
+C:\Users\ad3st\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\University\7_semester\Computer system design\Labs\Lab3\Lab1"
+CMake Error at CMakeLists.txt:4:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "${cmakeRequiredVersion}".
+
+
+-- Configuring incomplete, errors occurred!

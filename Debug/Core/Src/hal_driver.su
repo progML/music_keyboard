@@ -1,0 +1,12 @@
+hal_driver.c:4:6:resetAllDioids	8	static
+hal_driver.c:10:6:setLightGreenDiode	8	static
+hal_driver.c:14:6:setOffGreenDiode	8	static
+hal_driver.c:18:6:setLightRedDiode	8	static
+hal_driver.c:22:6:setOffRedDiode	8	static
+hal_driver.c:27:6:setLightYellowDiode	8	static
+hal_driver.c:32:6:setOffYellowDiode	8	static
+hal_driver.c:37:6:delay	16	static
+hal_driver.c:41:6:playAnimation	16	static
+hal_driver.c:52:5:getButtonState	8	static
+hal_driver.c:56:6:getCurrentTime	8	static
+hal_driver.c:60:6:blinkGreenDiode	8	static

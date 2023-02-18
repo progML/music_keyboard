@@ -1,0 +1,6 @@
+sound_driver.c:9:6:sound_driver_init	8	static
+sound_driver.c:15:6:sound_driver_set_frequency	16	static
+sound_driver.c:19:6:sound_driver_volume_on	4	static
+sound_driver.c:23:6:sound_driver_volume_mute	4	static
+sound_driver.c:32:6:sound_driver_tone	24	static
+sound_driver.c:59:6:sound_driver_play	32	static
